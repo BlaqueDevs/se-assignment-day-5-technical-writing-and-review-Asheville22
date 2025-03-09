@@ -155,15 +155,25 @@ Clear language reduces the risk of misinterpretation.
 
 
 Technical Term / Jargon	Simplified Version	Why It’s Better
+
 "Initiate"	"Start"	More common and familiar.
+
 "Utilize"	"Use"	Shorter and clearer.
+
 "Facilitate"	"Help"	More natural and conversational.
+
 "Terminate"	"End"	Instantly understandable.
+
 "Deploy"	"Launch" / "Set up"	More relatable outside of tech fields.
+
 "Expedite"	"Speed up"	Direct and to the point.
+
 "Authenticate"	"Verify" / "Prove"	Easier to grasp.
+
 "Optimize"	"Improve"	Less intimidating for non-experts.
+
 "Remuneration"	"Pay" / "Salary"	More common in everyday language.
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 
 1. Makes Abstract Ideas Relatable
